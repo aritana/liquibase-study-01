@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: classpath:/db/001-initial-schema.sql
+      runOnChange: true

@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS customer(
+  id INT PRIMARY KEY,
+  name VARCHAR(50)
+);
